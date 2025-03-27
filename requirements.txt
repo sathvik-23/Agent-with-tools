@@ -1,0 +1,31 @@
+#  pip install -r requirements.txt 
+
+
+agno==1.2.4                    # Agno framework for AI agents
+python-dotenv==1.1.0           # Environment variable handling
+google-auth==2.38.0            # Google authentication
+google-genai==1.7.0            # Google Gemini AI SDK
+requests==2.32.3               # HTTP requests
+rich==13.9.4                   # Rich text formatting
+pydantic==2.10.6               # Data validation
+pydantic-core==2.27.2          # Core utilities for Pydantic
+pydantic-settings==2.8.1       # Pydantic settings management
+typer==0.15.2                  # CLI tool for Python
+anyio==4.9.0                   # Async networking
+httpx==0.28.1                  # HTTP client for Python
+h11==0.14.0                    # HTTP/1.1 networking support
+urllib3==2.3.0                 # HTTP client library
+websockets==15.0.1             # WebSocket support
+PyYAML==6.0.2                  # YAML file handling
+markdown-it-py==3.0.0          # Markdown parsing
+pygments==2.19.1               # Syntax highlighting
+rsa==4.9                       # RSA encryption
+shellingham==1.5.4             # Detect the shell environment
+duckduckgo-search==7.5.4       # Search engine querying
+lxml==5.3.1                    # XML and HTML processing
+primp==0.14.0                  # Pretty print utilities
+
+
+
+
+
